@@ -1,0 +1,19 @@
+[theme]
+# Base is now 'light' for a white/light gray default background
+base="light"
+
+# Primary buttons, links, and sliders will be a Sky Blue/Navy color
+primaryColor="#007ACC" 
+
+# Background is a very light gray/off-white for a clean look
+backgroundColor="#F0F2F6" 
+
+# Secondary background (sidebar, code blocks) is a slightly darker light gray
+secondaryBackgroundColor="#FFFFFF" 
+
+# Text color is dark black/blue for high contrast
+textColor="#001F3F" 
+font="sans serif"
+
+[client]
+toolbarMode="minimal"
